@@ -41,6 +41,7 @@ Backend:
 Database:
   - MongoDB
   - Firebase
+  - MySQL
 
 Tools & Services:
   - Git & GitHub
