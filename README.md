@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-🚧 Currently crafting full-stack web applications using **React**, **Node.js**, and **MongoDB**  
-🧠 Learning **modern web technologies** every day  
+🚧 Currently crafting full-stack web applications using React, Node.js, and MongoDB  
+🧠 Learning Modern web technologies every day  
 💡 Passionate about writing clean code and building scalable solutions  
 ⚡ Skilled in: `HTML5`, `CSS3`, `JavaScript`, `TailwindCSS`, `React`, `Redux Toolkit`, `Express.js`, `Node.js`, `MongoDB`, `Firebase`, `MySQL`
 </div>
