@@ -23,9 +23,6 @@
   <a href="mailto:ag12015002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://leetcode.com/u/ayushguleria2005" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
   <a href="https://github.com/NovaGlyphos" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -39,33 +36,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
 </div>
 
----
 
-<h2 align="center">⚡ LeetCode Stats ⚡</h2>
 
-<div align="center">
-  <img width=390 src="https://leetcard.jacoblin.cool/ayushguleria2005?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
-</div>
 
----
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NovaGlyphos&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NovaGlyphos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NovaGlyphos&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
 
----
 
-<h3 align="center">An Aspiring Full Stack Developer with a passion for learning and building impactful projects!</h3>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NovaGlyphos&theme=onedark&margin-w=10&no-bg=true&no-frame=true" />
-</div>
