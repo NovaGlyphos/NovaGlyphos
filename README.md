@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Guleria;" />
 </h1>
@@ -34,10 +33,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
 </div>
 
+---
 
+### 🕒 Code Stats
 
+The following stats are generated from my [WakaTime](https://wakatime.com/@yourusername) account and updated automatically every day:
 
+<!--START_SECTION:waka-->
 
-
-
-
+<!--END_SECTION:waka-->
