@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Guleria;" />
-</h1>
+<h1 align="center">👋 Hey there, I'm Ayush!</h1>
 
 <h3 align="center">Breaking things to build better things 😄</h3>
 
@@ -17,11 +15,11 @@
 ### 📫 Reach Me Here
 
 <div align="center"> 
-  <a href="mailto:ag12015002@gmail.com">
+  <a href="mailto:ag13015002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/NovaGlyphos" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://instagram.com/itsdeactivatedBrooo">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
@@ -32,13 +30,3 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
 </div>
-
----
-
-### 🕒 Code Stats
-
-The following stats are generated from my [WakaTime](https://wakatime.com/@yourusername) account and updated automatically every day:
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
